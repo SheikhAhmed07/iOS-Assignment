@@ -1,0 +1,12 @@
+Two attached Codebase
+
+1. Network Service  
+NetworkService is codebase which includes code for creating framework for managing requirement of network calls.
+
+2. Project 
+Codebase which includes project with integration of framework. Following are the implemented features. 
+
+- Login button which manages authentication 
+- Load images with two tableviews which allows user to add images
+- If Login button is disabled and user try to add images, will add up to the queue 1 or 2 respectively. 
+- Once the images are in the queue and user makes authentication which will load the images once auth successful
